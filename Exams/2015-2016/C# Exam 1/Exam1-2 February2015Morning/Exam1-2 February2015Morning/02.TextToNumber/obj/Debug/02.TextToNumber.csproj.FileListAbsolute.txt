@@ -1,0 +1,6 @@
+E:\Work\Terelik-Academy\Exams\2015-2016\C# Exam 1\Exam1-2 February2015Morning\Exam1-2 February2015Morning\02.TextToNumber\bin\Debug\02.TextToNumber.exe.config
+E:\Work\Terelik-Academy\Exams\2015-2016\C# Exam 1\Exam1-2 February2015Morning\Exam1-2 February2015Morning\02.TextToNumber\bin\Debug\02.TextToNumber.exe
+E:\Work\Terelik-Academy\Exams\2015-2016\C# Exam 1\Exam1-2 February2015Morning\Exam1-2 February2015Morning\02.TextToNumber\bin\Debug\02.TextToNumber.pdb
+E:\Work\Terelik-Academy\Exams\2015-2016\C# Exam 1\Exam1-2 February2015Morning\Exam1-2 February2015Morning\02.TextToNumber\obj\Debug\02.TextToNumber.exe
+E:\Work\Terelik-Academy\Exams\2015-2016\C# Exam 1\Exam1-2 February2015Morning\Exam1-2 February2015Morning\02.TextToNumber\obj\Debug\02.TextToNumber.pdb
+E:\Work\Terelik-Academy\Exams\2015-2016\C# Exam 1\Exam1-2 February2015Morning\Exam1-2 February2015Morning\02.TextToNumber\obj\Debug\02.TextToNumber.csprojResolveAssemblyReference.cache

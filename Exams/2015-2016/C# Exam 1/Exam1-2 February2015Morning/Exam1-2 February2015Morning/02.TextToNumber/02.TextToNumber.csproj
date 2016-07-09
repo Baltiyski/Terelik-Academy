@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{08353973-FD51-4F07-AD8A-8E162DEB9545}</ProjectGuid>
+    <ProjectGuid>{644CE82B-9F8B-472F-9AAB-B1911A34A4F7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_01.Printing</RootNamespace>
-    <AssemblyName>01.Printing</AssemblyName>
+    <RootNamespace>_02.TextToNumber</RootNamespace>
+    <AssemblyName>02.TextToNumber</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Printing.cs" />
+    <Compile Include="TextToNumber.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
