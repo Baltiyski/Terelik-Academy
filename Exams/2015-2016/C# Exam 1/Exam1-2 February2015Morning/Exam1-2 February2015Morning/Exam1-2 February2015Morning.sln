@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Printing", "01.Printing\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TextToNumber", "02.TextToNumber\02.TextToNumber.csproj", "{644CE82B-9F8B-472F-9AAB-B1911A34A4F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SaddyKopper", "03.SaddyKopper\03.SaddyKopper.csproj", "{68F9C888-B36B-4730-9C75-02EE053F3E61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{644CE82B-9F8B-472F-9AAB-B1911A34A4F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{644CE82B-9F8B-472F-9AAB-B1911A34A4F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{644CE82B-9F8B-472F-9AAB-B1911A34A4F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F9C888-B36B-4730-9C75-02EE053F3E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F9C888-B36B-4730-9C75-02EE053F3E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F9C888-B36B-4730-9C75-02EE053F3E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F9C888-B36B-4730-9C75-02EE053F3E61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
