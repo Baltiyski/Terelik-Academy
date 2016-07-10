@@ -1,1 +1,6 @@
 E:\Work\Terelik-Academy\Exams\2015-2016\C# Exam 1\Exam1-2 February2015Morning\Exam1-2 February2015Morning\04.Cube\bin\Debug\04.Cube.exe.config
+E:\Work\Terelik-Academy\Exams\2015-2016\C# Exam 1\Exam1-2 February2015Morning\Exam1-2 February2015Morning\04.Cube\bin\Debug\04.Cube.exe
+E:\Work\Terelik-Academy\Exams\2015-2016\C# Exam 1\Exam1-2 February2015Morning\Exam1-2 February2015Morning\04.Cube\bin\Debug\04.Cube.pdb
+E:\Work\Terelik-Academy\Exams\2015-2016\C# Exam 1\Exam1-2 February2015Morning\Exam1-2 February2015Morning\04.Cube\obj\Debug\04.Cube.csprojResolveAssemblyReference.cache
+E:\Work\Terelik-Academy\Exams\2015-2016\C# Exam 1\Exam1-2 February2015Morning\Exam1-2 February2015Morning\04.Cube\obj\Debug\04.Cube.exe
+E:\Work\Terelik-Academy\Exams\2015-2016\C# Exam 1\Exam1-2 February2015Morning\Exam1-2 February2015Morning\04.Cube\obj\Debug\04.Cube.pdb
