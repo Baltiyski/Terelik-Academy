@@ -1,1 +1,6 @@
 E:\Work\Terelik-Academy\Exams\2013-2014\C# Exam 1\Exam 1 - 6 December 2013 Morning\01.3-6-9\bin\Debug\01.3-6-9.exe.config
+E:\Work\Terelik-Academy\Exams\2013-2014\C# Exam 1\Exam 1 - 6 December 2013 Morning\01.3-6-9\bin\Debug\01.3-6-9.exe
+E:\Work\Terelik-Academy\Exams\2013-2014\C# Exam 1\Exam 1 - 6 December 2013 Morning\01.3-6-9\bin\Debug\01.3-6-9.pdb
+E:\Work\Terelik-Academy\Exams\2013-2014\C# Exam 1\Exam 1 - 6 December 2013 Morning\01.3-6-9\obj\Debug\01.3-6-9.csprojResolveAssemblyReference.cache
+E:\Work\Terelik-Academy\Exams\2013-2014\C# Exam 1\Exam 1 - 6 December 2013 Morning\01.3-6-9\obj\Debug\01.3-6-9.exe
+E:\Work\Terelik-Academy\Exams\2013-2014\C# Exam 1\Exam 1 - 6 December 2013 Morning\01.3-6-9\obj\Debug\01.3-6-9.pdb

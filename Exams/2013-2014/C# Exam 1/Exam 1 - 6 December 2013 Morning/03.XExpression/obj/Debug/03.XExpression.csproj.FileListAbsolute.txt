@@ -1,0 +1,6 @@
+E:\Work\Terelik-Academy\Exams\2013-2014\C# Exam 1\Exam 1 - 6 December 2013 Morning\03.XExpression\bin\Debug\03.XExpression.exe.config
+E:\Work\Terelik-Academy\Exams\2013-2014\C# Exam 1\Exam 1 - 6 December 2013 Morning\03.XExpression\bin\Debug\03.XExpression.exe
+E:\Work\Terelik-Academy\Exams\2013-2014\C# Exam 1\Exam 1 - 6 December 2013 Morning\03.XExpression\bin\Debug\03.XExpression.pdb
+E:\Work\Terelik-Academy\Exams\2013-2014\C# Exam 1\Exam 1 - 6 December 2013 Morning\03.XExpression\obj\Debug\03.XExpression.csprojResolveAssemblyReference.cache
+E:\Work\Terelik-Academy\Exams\2013-2014\C# Exam 1\Exam 1 - 6 December 2013 Morning\03.XExpression\obj\Debug\03.XExpression.exe
+E:\Work\Terelik-Academy\Exams\2013-2014\C# Exam 1\Exam 1 - 6 December 2013 Morning\03.XExpression\obj\Debug\03.XExpression.pdb

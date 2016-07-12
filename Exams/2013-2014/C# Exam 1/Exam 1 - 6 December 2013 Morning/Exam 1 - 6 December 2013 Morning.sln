@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.3-6-9", "01.3-6-9\01.3-6-9.csproj", "{5FBA0E26-4226-48C3-95E6-1667DAA94602}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TheHorror", "02.TheHorror\02.TheHorror.csproj", "{1A0E0254-1DA5-43E5-BD76-A631D502D148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.XExpression", "03.XExpression\03.XExpression.csproj", "{15B891C2-608B-4081-A85F-5DE32AE3CAEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{5FBA0E26-4226-48C3-95E6-1667DAA94602}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FBA0E26-4226-48C3-95E6-1667DAA94602}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FBA0E26-4226-48C3-95E6-1667DAA94602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A0E0254-1DA5-43E5-BD76-A631D502D148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0E0254-1DA5-43E5-BD76-A631D502D148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0E0254-1DA5-43E5-BD76-A631D502D148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0E0254-1DA5-43E5-BD76-A631D502D148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B891C2-608B-4081-A85F-5DE32AE3CAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B891C2-608B-4081-A85F-5DE32AE3CAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B891C2-608B-4081-A85F-5DE32AE3CAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B891C2-608B-4081-A85F-5DE32AE3CAEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
