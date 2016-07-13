@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TheHorror", "02.TheHorro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.XExpression", "03.XExpression\03.XExpression.csproj", "{15B891C2-608B-4081-A85F-5DE32AE3CAEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Warhead", "05.Warhead\05.Warhead.csproj", "{9CA49333-5E6B-4429-8615-5A7C959FA0DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.DiamondTrolls", "04.DiamondTrolls\04.DiamondTrolls.csproj", "{784DB0F2-DAD4-4C0D-879C-BF79C39C8404}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{15B891C2-608B-4081-A85F-5DE32AE3CAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15B891C2-608B-4081-A85F-5DE32AE3CAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15B891C2-608B-4081-A85F-5DE32AE3CAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CA49333-5E6B-4429-8615-5A7C959FA0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CA49333-5E6B-4429-8615-5A7C959FA0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CA49333-5E6B-4429-8615-5A7C959FA0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CA49333-5E6B-4429-8615-5A7C959FA0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{784DB0F2-DAD4-4C0D-879C-BF79C39C8404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784DB0F2-DAD4-4C0D-879C-BF79C39C8404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784DB0F2-DAD4-4C0D-879C-BF79C39C8404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784DB0F2-DAD4-4C0D-879C-BF79C39C8404}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
