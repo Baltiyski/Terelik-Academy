@@ -1,0 +1,6 @@
+E:\Work\Terelik-Academy\Exams\2016-2017\C# Exam 1\Exam Fundamentals  26 April 2016 Morning\05.BobiAvokadoto\bin\Debug\05.BobiAvokadoto.exe.config
+E:\Work\Terelik-Academy\Exams\2016-2017\C# Exam 1\Exam Fundamentals  26 April 2016 Morning\05.BobiAvokadoto\bin\Debug\05.BobiAvokadoto.exe
+E:\Work\Terelik-Academy\Exams\2016-2017\C# Exam 1\Exam Fundamentals  26 April 2016 Morning\05.BobiAvokadoto\bin\Debug\05.BobiAvokadoto.pdb
+E:\Work\Terelik-Academy\Exams\2016-2017\C# Exam 1\Exam Fundamentals  26 April 2016 Morning\05.BobiAvokadoto\obj\Debug\05.BobiAvokadoto.csprojResolveAssemblyReference.cache
+E:\Work\Terelik-Academy\Exams\2016-2017\C# Exam 1\Exam Fundamentals  26 April 2016 Morning\05.BobiAvokadoto\obj\Debug\05.BobiAvokadoto.exe
+E:\Work\Terelik-Academy\Exams\2016-2017\C# Exam 1\Exam Fundamentals  26 April 2016 Morning\05.BobiAvokadoto\obj\Debug\05.BobiAvokadoto.pdb

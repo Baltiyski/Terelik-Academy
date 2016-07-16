@@ -1,0 +1,5 @@
+E:\Work\Terelik-Academy\Exams\2016-2017\C# Exam 1\Exam Fundamentals  26 April 2016 Morning\04.Batman\bin\Debug\04.Batman.exe.config
+E:\Work\Terelik-Academy\Exams\2016-2017\C# Exam 1\Exam Fundamentals  26 April 2016 Morning\04.Batman\bin\Debug\04.Batman.exe
+E:\Work\Terelik-Academy\Exams\2016-2017\C# Exam 1\Exam Fundamentals  26 April 2016 Morning\04.Batman\bin\Debug\04.Batman.pdb
+E:\Work\Terelik-Academy\Exams\2016-2017\C# Exam 1\Exam Fundamentals  26 April 2016 Morning\04.Batman\obj\Debug\04.Batman.exe
+E:\Work\Terelik-Academy\Exams\2016-2017\C# Exam 1\Exam Fundamentals  26 April 2016 Morning\04.Batman\obj\Debug\04.Batman.pdb
