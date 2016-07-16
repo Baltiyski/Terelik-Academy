@@ -1,0 +1,6 @@
+E:\Work\Terelik-Academy\Exams\2016-2017\C# Exam 1\Exam Fundamentals  26 April 2016 Morning\03.NumberOfPages\bin\Debug\03.NumberOfPages.exe.config
+E:\Work\Terelik-Academy\Exams\2016-2017\C# Exam 1\Exam Fundamentals  26 April 2016 Morning\03.NumberOfPages\bin\Debug\03.NumberOfPages.exe
+E:\Work\Terelik-Academy\Exams\2016-2017\C# Exam 1\Exam Fundamentals  26 April 2016 Morning\03.NumberOfPages\bin\Debug\03.NumberOfPages.pdb
+E:\Work\Terelik-Academy\Exams\2016-2017\C# Exam 1\Exam Fundamentals  26 April 2016 Morning\03.NumberOfPages\obj\Debug\03.NumberOfPages.csprojResolveAssemblyReference.cache
+E:\Work\Terelik-Academy\Exams\2016-2017\C# Exam 1\Exam Fundamentals  26 April 2016 Morning\03.NumberOfPages\obj\Debug\03.NumberOfPages.exe
+E:\Work\Terelik-Academy\Exams\2016-2017\C# Exam 1\Exam Fundamentals  26 April 2016 Morning\03.NumberOfPages\obj\Debug\03.NumberOfPages.pdb
