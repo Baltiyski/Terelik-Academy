@@ -1,0 +1,5 @@
+E:\Work\Terelik-Academy\Exams\2016-2017\C# Exam 1\Exam Fundamentals  26 April 2016 Morning\02.BussesDescription\bin\Debug\02.BussesDescription.exe.config
+E:\Work\Terelik-Academy\Exams\2016-2017\C# Exam 1\Exam Fundamentals  26 April 2016 Morning\02.BussesDescription\bin\Debug\02.BussesDescription.exe
+E:\Work\Terelik-Academy\Exams\2016-2017\C# Exam 1\Exam Fundamentals  26 April 2016 Morning\02.BussesDescription\bin\Debug\02.BussesDescription.pdb
+E:\Work\Terelik-Academy\Exams\2016-2017\C# Exam 1\Exam Fundamentals  26 April 2016 Morning\02.BussesDescription\obj\Debug\02.BussesDescription.exe
+E:\Work\Terelik-Academy\Exams\2016-2017\C# Exam 1\Exam Fundamentals  26 April 2016 Morning\02.BussesDescription\obj\Debug\02.BussesDescription.pdb
