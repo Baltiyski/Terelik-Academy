@@ -1,0 +1,6 @@
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\03.CompareCharArray\bin\Debug\03.CompareCharArray.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\03.CompareCharArray\bin\Debug\03.CompareCharArray.exe
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\03.CompareCharArray\bin\Debug\03.CompareCharArray.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\03.CompareCharArray\obj\Debug\03.CompareCharArray.csprojResolveAssemblyReference.cache
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\03.CompareCharArray\obj\Debug\03.CompareCharArray.exe
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\03.CompareCharArray\obj\Debug\03.CompareCharArray.pdb

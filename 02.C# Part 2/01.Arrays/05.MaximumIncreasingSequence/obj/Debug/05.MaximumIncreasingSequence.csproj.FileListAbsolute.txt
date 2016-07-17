@@ -1,0 +1,5 @@
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\05.MaximumIncreasingSequence\bin\Debug\05.MaximumIncreasingSequence.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\05.MaximumIncreasingSequence\bin\Debug\05.MaximumIncreasingSequence.exe
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\05.MaximumIncreasingSequence\bin\Debug\05.MaximumIncreasingSequence.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\05.MaximumIncreasingSequence\obj\Debug\05.MaximumIncreasingSequence.exe
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\05.MaximumIncreasingSequence\obj\Debug\05.MaximumIncreasingSequence.pdb

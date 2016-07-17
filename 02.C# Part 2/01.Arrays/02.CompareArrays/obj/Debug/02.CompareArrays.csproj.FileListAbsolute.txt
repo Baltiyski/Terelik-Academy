@@ -1,0 +1,5 @@
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.exe
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\02.CompareArrays\obj\Debug\02.CompareArrays.exe
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\02.CompareArrays\obj\Debug\02.CompareArrays.pdb
