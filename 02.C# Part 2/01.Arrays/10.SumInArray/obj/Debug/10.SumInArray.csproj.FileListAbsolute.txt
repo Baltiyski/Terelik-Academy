@@ -1,0 +1,5 @@
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\10.SumInArray\bin\Debug\10.SumInArray.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\10.SumInArray\bin\Debug\10.SumInArray.exe
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\10.SumInArray\bin\Debug\10.SumInArray.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\10.SumInArray\obj\Debug\10.SumInArray.exe
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\10.SumInArray\obj\Debug\10.SumInArray.pdb

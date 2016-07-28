@@ -1,0 +1,6 @@
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\06.MaximalKSum\bin\Debug\06.MaximalKSum.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\06.MaximalKSum\bin\Debug\06.MaximalKSum.exe
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\06.MaximalKSum\bin\Debug\06.MaximalKSum.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\06.MaximalKSum\obj\Debug\06.MaximalKSum.csprojResolveAssemblyReference.cache
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\06.MaximalKSum\obj\Debug\06.MaximalKSum.exe
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\06.MaximalKSum\obj\Debug\06.MaximalKSum.pdb

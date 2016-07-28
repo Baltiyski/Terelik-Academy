@@ -1,0 +1,6 @@
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\08.MaximumSum\bin\Debug\08.MaximumSum.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\08.MaximumSum\bin\Debug\08.MaximumSum.exe
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\08.MaximumSum\bin\Debug\08.MaximumSum.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\08.MaximumSum\obj\Debug\08.MaximumSum.csprojResolveAssemblyReference.cache
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\08.MaximumSum\obj\Debug\08.MaximumSum.exe
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\08.MaximumSum\obj\Debug\08.MaximumSum.pdb
