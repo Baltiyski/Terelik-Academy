@@ -1,1 +1,6 @@
 E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.exe
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.csprojResolveAssemblyReference.cache
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.exe
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.pdb

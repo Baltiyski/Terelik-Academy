@@ -1,0 +1,6 @@
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.csprojResolveAssemblyReference.cache
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.exe
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.exe
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.pdb
