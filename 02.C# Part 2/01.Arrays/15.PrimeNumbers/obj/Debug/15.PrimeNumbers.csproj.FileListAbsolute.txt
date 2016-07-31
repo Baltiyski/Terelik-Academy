@@ -1,0 +1,6 @@
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.exe
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\15.PrimeNumbers\obj\Debug\15.PrimeNumbers.csprojResolveAssemblyReference.cache
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\15.PrimeNumbers\obj\Debug\15.PrimeNumbers.exe
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\15.PrimeNumbers\obj\Debug\15.PrimeNumbers.pdb

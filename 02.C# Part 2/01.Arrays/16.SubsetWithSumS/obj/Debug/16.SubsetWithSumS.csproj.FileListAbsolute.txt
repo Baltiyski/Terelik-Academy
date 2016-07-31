@@ -1,0 +1,6 @@
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\16.SubsetWithSumS\bin\Debug\16.SubsetWithSumS.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\16.SubsetWithSumS\bin\Debug\16.SubsetWithSumS.exe
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\16.SubsetWithSumS\bin\Debug\16.SubsetWithSumS.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\16.SubsetWithSumS\obj\Debug\16.SubsetWithSumS.csprojResolveAssemblyReference.cache
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\16.SubsetWithSumS\obj\Debug\16.SubsetWithSumS.exe
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\16.SubsetWithSumS\obj\Debug\16.SubsetWithSumS.pdb
