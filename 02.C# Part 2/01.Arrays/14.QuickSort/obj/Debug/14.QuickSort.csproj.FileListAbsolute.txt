@@ -1,0 +1,6 @@
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\14.QuickSort\bin\Debug\14.QuickSort.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\14.QuickSort\bin\Debug\14.QuickSort.exe
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\14.QuickSort\bin\Debug\14.QuickSort.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\14.QuickSort\obj\Debug\14.QuickSort.csprojResolveAssemblyReference.cache
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\14.QuickSort\obj\Debug\14.QuickSort.exe
+E:\Work\Terelik-Academy\02.C# Part 2\01.Arrays\14.QuickSort\obj\Debug\14.QuickSort.pdb
