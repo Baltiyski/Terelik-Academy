@@ -1,0 +1,5 @@
+E:\Work\Terelik-Academy\02.C# Part 2\02.MultidimentionalArrays\02.MaimalSum\bin\Debug\02.MaimalSum.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\02.MultidimentionalArrays\02.MaimalSum\bin\Debug\02.MaimalSum.exe
+E:\Work\Terelik-Academy\02.C# Part 2\02.MultidimentionalArrays\02.MaimalSum\bin\Debug\02.MaimalSum.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\02.MultidimentionalArrays\02.MaimalSum\obj\Debug\02.MaimalSum.exe
+E:\Work\Terelik-Academy\02.C# Part 2\02.MultidimentionalArrays\02.MaimalSum\obj\Debug\02.MaimalSum.pdb

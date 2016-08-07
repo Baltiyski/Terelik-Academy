@@ -1,0 +1,6 @@
+E:\Work\Terelik-Academy\02.C# Part 2\02.MultidimentionalArrays\01.FillTheMatri\bin\Debug\01.FillTheMatri.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\02.MultidimentionalArrays\01.FillTheMatri\bin\Debug\01.FillTheMatri.exe
+E:\Work\Terelik-Academy\02.C# Part 2\02.MultidimentionalArrays\01.FillTheMatri\bin\Debug\01.FillTheMatri.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\02.MultidimentionalArrays\01.FillTheMatri\obj\Debug\01.FillTheMatri.csprojResolveAssemblyReference.cache
+E:\Work\Terelik-Academy\02.C# Part 2\02.MultidimentionalArrays\01.FillTheMatri\obj\Debug\01.FillTheMatri.exe
+E:\Work\Terelik-Academy\02.C# Part 2\02.MultidimentionalArrays\01.FillTheMatri\obj\Debug\01.FillTheMatri.pdb
