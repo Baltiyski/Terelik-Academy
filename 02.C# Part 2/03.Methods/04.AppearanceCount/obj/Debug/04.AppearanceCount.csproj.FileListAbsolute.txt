@@ -1,0 +1,6 @@
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\04.AppearanceCount\bin\Debug\04.AppearanceCount.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\04.AppearanceCount\bin\Debug\04.AppearanceCount.exe
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\04.AppearanceCount\bin\Debug\04.AppearanceCount.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\04.AppearanceCount\obj\Debug\04.AppearanceCount.csprojResolveAssemblyReference.cache
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\04.AppearanceCount\obj\Debug\04.AppearanceCount.exe
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\04.AppearanceCount\obj\Debug\04.AppearanceCount.pdb

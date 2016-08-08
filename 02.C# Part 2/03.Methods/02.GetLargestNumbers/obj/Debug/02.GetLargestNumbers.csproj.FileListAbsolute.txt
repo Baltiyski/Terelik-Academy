@@ -1,0 +1,6 @@
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\02.GetLargestNumbers\bin\Debug\02.GetLargestNumbers.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\02.GetLargestNumbers\bin\Debug\02.GetLargestNumbers.exe
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\02.GetLargestNumbers\bin\Debug\02.GetLargestNumbers.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\02.GetLargestNumbers\obj\Debug\02.GetLargestNumbers.csprojResolveAssemblyReference.cache
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\02.GetLargestNumbers\obj\Debug\02.GetLargestNumbers.exe
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\02.GetLargestNumbers\obj\Debug\02.GetLargestNumbers.pdb
