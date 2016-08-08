@@ -1,0 +1,6 @@
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\05.LargerThatNeigbhours\bin\Debug\05.LargerThatNeigbhours.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\05.LargerThatNeigbhours\bin\Debug\05.LargerThatNeigbhours.exe
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\05.LargerThatNeigbhours\bin\Debug\05.LargerThatNeigbhours.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\05.LargerThatNeigbhours\obj\Debug\05.LargerThatNeigbhours.csprojResolveAssemblyReference.cache
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\05.LargerThatNeigbhours\obj\Debug\05.LargerThatNeigbhours.exe
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\05.LargerThatNeigbhours\obj\Debug\05.LargerThatNeigbhours.pdb
