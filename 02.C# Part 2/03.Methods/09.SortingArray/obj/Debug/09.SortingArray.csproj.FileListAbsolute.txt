@@ -1,0 +1,6 @@
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\09.SortingArray\bin\Debug\09.SortingArray.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\09.SortingArray\bin\Debug\09.SortingArray.exe
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\09.SortingArray\bin\Debug\09.SortingArray.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\09.SortingArray\obj\Debug\09.SortingArray.csprojResolveAssemblyReference.cache
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\09.SortingArray\obj\Debug\09.SortingArray.exe
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\09.SortingArray\obj\Debug\09.SortingArray.pdb
