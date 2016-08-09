@@ -1,0 +1,6 @@
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\14.IntegerCalculation\bin\Debug\14.IntegerCalculation.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\14.IntegerCalculation\bin\Debug\14.IntegerCalculation.exe
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\14.IntegerCalculation\bin\Debug\14.IntegerCalculation.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\14.IntegerCalculation\obj\Debug\14.IntegerCalculation.exe
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\14.IntegerCalculation\obj\Debug\14.IntegerCalculation.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\03.Methods\14.IntegerCalculation\obj\Debug\14.IntegerCalculation.csprojResolveAssemblyReference.cache
