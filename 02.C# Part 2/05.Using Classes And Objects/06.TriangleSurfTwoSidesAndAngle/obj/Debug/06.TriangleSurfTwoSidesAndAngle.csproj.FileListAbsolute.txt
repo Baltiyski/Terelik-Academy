@@ -1,0 +1,5 @@
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\06.TriangleSurfTwoSidesAndAngle\bin\Debug\06.TriangleSurfTwoSidesAndAngle.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\06.TriangleSurfTwoSidesAndAngle\bin\Debug\06.TriangleSurfTwoSidesAndAngle.exe
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\06.TriangleSurfTwoSidesAndAngle\bin\Debug\06.TriangleSurfTwoSidesAndAngle.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\06.TriangleSurfTwoSidesAndAngle\obj\Debug\06.TriangleSurfTwoSidesAndAngle.exe
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\06.TriangleSurfTwoSidesAndAngle\obj\Debug\06.TriangleSurfTwoSidesAndAngle.pdb

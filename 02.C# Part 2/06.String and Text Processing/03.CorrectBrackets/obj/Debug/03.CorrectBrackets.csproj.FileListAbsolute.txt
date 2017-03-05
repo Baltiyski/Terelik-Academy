@@ -1,0 +1,6 @@
+E:\Work\Terelik-Academy\02.C# Part 2\06.String and Text Processing\03.CorrectBrackets\bin\Debug\03.CorrectBrackets.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\06.String and Text Processing\03.CorrectBrackets\bin\Debug\03.CorrectBrackets.exe
+E:\Work\Terelik-Academy\02.C# Part 2\06.String and Text Processing\03.CorrectBrackets\bin\Debug\03.CorrectBrackets.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\06.String and Text Processing\03.CorrectBrackets\obj\Debug\03.CorrectBrackets.csprojResolveAssemblyReference.cache
+E:\Work\Terelik-Academy\02.C# Part 2\06.String and Text Processing\03.CorrectBrackets\obj\Debug\03.CorrectBrackets.exe
+E:\Work\Terelik-Academy\02.C# Part 2\06.String and Text Processing\03.CorrectBrackets\obj\Debug\03.CorrectBrackets.pdb

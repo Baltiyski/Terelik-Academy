@@ -1,0 +1,6 @@
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\04.TriangleSurfaceBySideAndAltitude\bin\Debug\04.TriangleSurfaceBySideAndAltitude.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\04.TriangleSurfaceBySideAndAltitude\bin\Debug\04.TriangleSurfaceBySideAndAltitude.exe
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\04.TriangleSurfaceBySideAndAltitude\bin\Debug\04.TriangleSurfaceBySideAndAltitude.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\04.TriangleSurfaceBySideAndAltitude\obj\Debug\04.TriangleSurfaceBySideAndAltitude.csprojResolveAssemblyReference.cache
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\04.TriangleSurfaceBySideAndAltitude\obj\Debug\04.TriangleSurfaceBySideAndAltitude.exe
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\04.TriangleSurfaceBySideAndAltitude\obj\Debug\04.TriangleSurfaceBySideAndAltitude.pdb

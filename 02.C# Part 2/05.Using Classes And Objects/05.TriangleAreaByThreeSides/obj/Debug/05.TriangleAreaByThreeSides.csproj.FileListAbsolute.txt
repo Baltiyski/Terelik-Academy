@@ -1,0 +1,6 @@
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\05.TriangleAreaByThreeSides\bin\Debug\05.TriangleAreaByThreeSides.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\05.TriangleAreaByThreeSides\bin\Debug\05.TriangleAreaByThreeSides.exe
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\05.TriangleAreaByThreeSides\bin\Debug\05.TriangleAreaByThreeSides.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\05.TriangleAreaByThreeSides\obj\Debug\05.TriangleAreaByThreeSides.csprojResolveAssemblyReference.cache
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\05.TriangleAreaByThreeSides\obj\Debug\05.TriangleAreaByThreeSides.exe
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\05.TriangleAreaByThreeSides\obj\Debug\05.TriangleAreaByThreeSides.pdb

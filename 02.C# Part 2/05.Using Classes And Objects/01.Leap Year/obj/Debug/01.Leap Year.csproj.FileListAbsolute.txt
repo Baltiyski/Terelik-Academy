@@ -1,0 +1,6 @@
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\01.Leap Year\bin\Debug\01.Leap Year.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\01.Leap Year\bin\Debug\01.Leap Year.exe
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\01.Leap Year\bin\Debug\01.Leap Year.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\01.Leap Year\obj\Debug\01.Leap Year.csprojResolveAssemblyReference.cache
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\01.Leap Year\obj\Debug\01.Leap Year.exe
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\01.Leap Year\obj\Debug\01.Leap Year.pdb

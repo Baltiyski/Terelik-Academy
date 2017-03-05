@@ -1,0 +1,5 @@
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\02.RandomNumbers\bin\Debug\02.RandomNumbers.exe.config
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\02.RandomNumbers\bin\Debug\02.RandomNumbers.exe
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\02.RandomNumbers\bin\Debug\02.RandomNumbers.pdb
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\02.RandomNumbers\obj\Debug\02.RandomNumbers.exe
+E:\Work\Terelik-Academy\02.C# Part 2\05.Using Classes And Objects\02.RandomNumbers\obj\Debug\02.RandomNumbers.pdb
